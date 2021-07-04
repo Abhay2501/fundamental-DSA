@@ -11,7 +11,7 @@ public class revise {
              }
              public static void main(String[] args){
                 Scanner scn = new Scanner(System.in);
-            //     int[] arr = {2,3,4,56,78,98,-1,3,-23,-456,4758,3};
+                int[] arr = {2,3,4,56,78,98,-1,3,-23,-456,4758,3};
             //    int n = scn.nextInt();
             //     int [] ans = new int [n];
             //     for(int i =0; i< n; i++){
